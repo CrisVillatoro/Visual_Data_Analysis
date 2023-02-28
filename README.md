@@ -1,4 +1,4 @@
-# Visual_Data_Analysis
+# Visual Data Analysis
 Animated scatter plot 
 
 This plot visualizes the correlation between fertility rate, life expectancy and population during 1960 and 2015 around the globe. The sizes of the scatters represents the population of each country, the colours shows in which continent they can be found.
